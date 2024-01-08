@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from streamlit_extras.grid import grid
-from streamlit_extras.buy_me_a_coffee import button
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
